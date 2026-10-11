@@ -1,0 +1,45 @@
+# Rebuilds dates.json once a day, and commits it only if the data changed.
+# It can also be run by hand from the repo's Actions tab ("Run workflow").
+
+name: update dates
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily at 06:17 UTC (GitHub may start it late)
+  workflow_dispatch:
+
+permissions:
+  contents: write          # lets the run commit dates.json to this repo
+
+concurrency:
+  group: update-dates      # never run two updates at once
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: check out zzup-data
+        uses: actions/checkout@v4
+
+      - name: clone the catalog's history
+        # blobless: full commit history, file contents fetched as needed
+        run: git clone --quiet --filter=blob:none https://github.com/monome/norns-community "$RUNNER_TEMP/catalog"
+
+      - name: build dates.json
+        run: python3 build_dates.py --catalog-repo "$RUNNER_TEMP/catalog" --previous dates.json --out dates.json
+
+      - name: commit if anything changed
+        # ignore the "generated" line, so a day with no catalog or repo
+        # changes doesn't produce a commit
+        run: |
+          if git diff --quiet -I '"generated"' -- dates.json; then
+            echo "no changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dates.json
+          git commit --quiet -m "update dates.json"
+          git push --quiet
