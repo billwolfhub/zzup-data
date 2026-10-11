@@ -45,3 +45,7 @@ python3 build_dates.py --catalog-repo catalog --previous dates.json --out dates.
 A full build takes about a minute; with `--previous`, only repos with new commits are fetched.
 
 To host your own copy, fork this repo, enable Actions on the fork, and point zzup's data URL setting at your fork's `dates.json`.
+
+## license
+
+GPL-3.0, the same license as norns itself. See [LICENSE](LICENSE). The dates are derived from the public [norns community catalog](https://github.com/monome/norns-community) and the public repos it lists.

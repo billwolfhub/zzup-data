@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# copyright (c) 2026 bill wolf. licensed under the GNU GPL v3.0; see LICENSE.
 """
 Build dates.json for zzup.
 
