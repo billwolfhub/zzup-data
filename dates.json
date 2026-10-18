@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-17",
+  "generated": "2026-10-18",
   "scripts": {
     "32-harmony": {"added": "2026-04-17", "updated": "2026-09-05", "commit": "7f088b4797e4075adcd414c25b371740e5c65a31"},
     "3d": {"added": "2021-05-11", "updated": "2021-05-27", "commit": "b8b9dc8a10b48d15ada9a9926b04e1bdf4ef516f"},
@@ -10,7 +10,7 @@
     "abacus": {"added": "2020-11-01", "updated": "2020-11-10", "commit": "f4e5eb93886b45c7de30bee61ad086c1c121ec6e"},
     "acid-test": {"added": "2022-01-28", "updated": "2022-02-02", "commit": "ad3e2f9ef5202c52cb262d11620c240bb7a89a92"},
     "ack": {"added": "2019-10-21", "updated": "2022-01-10", "commit": "db44d479f00e897a6687654b75f3a8f6d3952141"},
-    "acrostic": {"added": "2022-02-22", "updated": "2024-02-02", "commit": "7963fc6bdf4e23a704270a7af0b99108005d569f"},
+    "acrostic": {"added": "2022-02-22", "updated": "2026-10-18", "commit": "d3aee8c0937e566df41146835ccb58d0f0cea721"},
     "amen": {"added": "2021-04-08", "updated": "2024-06-21", "commit": "630bf8c0a275236353e64a3b106d6d56ffdb77b3"},
     "amenbreak": {"added": "2022-12-17", "updated": "2024-09-28", "commit": "14f591bfb0dee0cdc6eb65adf75866b03280072b"},
     "animator": {"added": "2020-01-06", "updated": "2021-07-22", "commit": "2a33fa8eabe010f73ed36f3b86c9d00b6a5917dd"},
@@ -26,7 +26,7 @@
     "awake-ashsynth": {"added": "2026-06-06", "updated": "2026-06-06", "commit": "cb073515b8415f6971871a84050c29747ad7f31b"},
     "awake-passersby": {"added": "2020-01-05", "updated": "2021-07-03", "commit": "ea721d8fd3683b3dd6d082389b713bf92b22c58e"},
     "awake-rings": {"added": "2019-11-07", "updated": "2022-03-24", "commit": "d5df0b6a92d215da28e5b94df2f8cc2193c8cfa9"},
-    "b-b-b-b-beat": {"added": "2020-08-06", "updated": "2020-08-24", "commit": "2023953ecfc7e58403bbcffc699f0f86c5f22fd6"},
+    "b-b-b-b-beat": {"added": "2020-08-06", "updated": "2026-10-17", "commit": "1684c80c4c6068bcb475644965137f1a7fbda38a"},
     "bakeneko": {"added": "2020-12-24", "updated": "2023-05-16", "commit": "c06b368a0aaf6abffbbe52a290f45c86d195774f"},
     "barcode": {"added": "2020-08-13", "updated": "2021-10-17", "commit": "8287bfec137f1bdb7b06090d0ef0b1b6c2245fa7"},
     "barycenter": {"added": "2020-10-26", "updated": "2020-10-26", "commit": "6b0a126a58a4d077689f3b24c308f1a7b148f6d6"},
