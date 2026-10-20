@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-18",
+  "generated": "2026-10-20",
   "scripts": {
     "32-harmony": {"added": "2026-04-17", "updated": "2026-09-05", "commit": "7f088b4797e4075adcd414c25b371740e5c65a31"},
     "3d": {"added": "2021-05-11", "updated": "2021-05-27", "commit": "b8b9dc8a10b48d15ada9a9926b04e1bdf4ef516f"},
@@ -185,7 +185,7 @@
     "midi-monitor": {"added": "2020-09-01", "updated": "2020-08-06", "commit": "d7c48583ef2f4414f0aa8247e92f79acf98f271d"},
     "midi-review": {"added": "2023-01-06", "updated": "2023-01-13", "commit": "49469d8c274551a419f2942d8d4e36568e5a6f3c"},
     "midididi": {"added": "2024-05-03", "updated": "2024-05-04", "commit": "d25b088ef2491a92b3d30dc3eb339b047689cf8d"},
-    "midigrid": {"added": "2023-09-23", "updated": "2026-10-16", "commit": "975e67add476a8e734c06b1fdf8202c699720f10"},
+    "midigrid": {"added": "2023-09-23", "updated": "2026-10-19", "commit": "beb75e82ce6421c2fd60398e14a26c5bcf5a33b7"},
     "midiplayer": {"added": "2026-02-12", "updated": "2026-09-18", "commit": "608f4e0f29d99a22910045ceba1f1768dcf3d059"},
     "mlr": {"added": "2019-10-21", "updated": "2022-07-05", "commit": "1c21309bdfa1a6bdccd5f4fef5aea9768870732f"},
     "mlre": {"added": "2022-12-20", "updated": "2025-04-24", "commit": "ba88531bd31656ec33b54beee4f67c5438ae7d35"},
