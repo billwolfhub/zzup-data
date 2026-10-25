@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-24",
+  "generated": "2026-10-25",
   "scripts": {
     "32-harmony": {"added": "2026-04-17", "updated": "2026-09-05", "commit": "7f088b4797e4075adcd414c25b371740e5c65a31"},
     "3d": {"added": "2021-05-11", "updated": "2021-05-27", "commit": "b8b9dc8a10b48d15ada9a9926b04e1bdf4ef516f"},
@@ -115,7 +115,7 @@
     "glitchlooper": {"added": "2022-04-03", "updated": "2022-03-31", "commit": "140ad7a1bd13482c074122d0e51de37818d78398"},
     "glut": {"added": "2019-10-21", "updated": "2023-06-16", "commit": "f92324261df2603333ea21c8e9850ff98432776f"},
     "goldeneye": {"added": "2021-07-05", "updated": "2025-03-02", "commit": "4ee39479fb20be3ba3e43f5c940bafb9065ca46b"},
-    "grains": {"added": "2026-08-21", "updated": "2026-10-24", "commit": "708cff15499df5158d77503a35c17fb569902ca7"},
+    "grains": {"added": "2026-08-21", "updated": "2026-10-24", "commit": "b10f4099d44e1b6cf5522a9dbfc56d6043422b47"},
     "graintopia": {"added": "2023-05-13", "updated": "2026-07-20", "commit": "2c7efd88adf1b847cdff00cfdb166fdeb8b6953c"},
     "granchild": {"added": "2021-02-20", "updated": "2022-08-03", "commit": "124adb1c96d3c59a15d03f5c070610456405d7fb"},
     "grd": {"added": "2020-06-23", "updated": "2024-02-05", "commit": "8b6a64e5579fd2f4f8ab1162580647c19dbf26b2"},
