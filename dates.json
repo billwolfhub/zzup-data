@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-10-28",
+  "generated": "2026-10-31",
   "scripts": {
     "32-harmony": {"added": "2026-04-17", "updated": "2026-09-05", "commit": "7f088b4797e4075adcd414c25b371740e5c65a31"},
     "3d": {"added": "2021-05-11", "updated": "2021-05-27", "commit": "b8b9dc8a10b48d15ada9a9926b04e1bdf4ef516f"},
@@ -318,6 +318,7 @@
     "tambla": {"added": "2020-11-04", "updated": "2021-09-07", "commit": "381a0fe603934217631f670995004ccaccc3e1d1"},
     "tapedeck": {"added": "2022-01-16", "updated": "2023-05-14", "commit": "7430f65451c831a8d563b6b9ed52986707d03072"},
     "taweeet": {"added": "2024-10-13", "updated": "2024-10-17", "commit": "2d6a81eb997dc00a2ae0db51b996cef6fa921d0e"},
+    "terrarium": {"added": "2026-10-30", "updated": "2026-10-29", "commit": "c5f077bc42e786448e619adcd26c1f2cafdf2b45"},
     "tetra": {"added": "2024-08-19", "updated": "2026-09-20", "commit": "f44dfb01fa09dc13ad812aa882cbb387e0913b61"},
     "tetrabobo": {"added": "2022-12-17", "updated": "2022-12-19", "commit": "9fb040999a1a0cc68fabfdd429852e131e6361ec"},
     "tetrabotis": {"added": "2022-12-19", "updated": "2022-12-19", "commit": "d5b96eaada6738ad85b37aaad0c909213d61e8fe"},
