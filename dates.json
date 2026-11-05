@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generated": "2026-11-04",
+  "generated": "2026-11-05",
   "scripts": {
     "32-harmony": {"added": "2026-04-17", "updated": "2026-09-05", "commit": "7f088b4797e4075adcd414c25b371740e5c65a31"},
     "3d": {"added": "2021-05-11", "updated": "2021-05-27", "commit": "b8b9dc8a10b48d15ada9a9926b04e1bdf4ef516f"},
     "4-big-knobs": {"added": "2021-03-01", "updated": "2022-12-26", "commit": "e6b41f7248bff4d16bde8a9ef64e1f2bac8a8164"},
     "4CCFader": {"added": "2025-05-07", "updated": "2025-05-06", "commit": "9f60877d3d22cf920916bad6a86195da08bfff3e"},
-    "_awed": {"added": "2025-07-26", "updated": "2025-11-16", "commit": "82bc3fae442dce4f06571d3ac5fc0e8c78891e80"},
+    "_awed": {"added": "2025-07-26", "updated": "2026-11-04", "commit": "5ad85d90cca4422c25c1449b0a1692d9a8a09ecd"},
     "abacus": {"added": "2020-11-01", "updated": "2020-11-10", "commit": "f4e5eb93886b45c7de30bee61ad086c1c121ec6e"},
     "acid-test": {"added": "2022-01-28", "updated": "2022-02-02", "commit": "ad3e2f9ef5202c52cb262d11620c240bb7a89a92"},
     "ack": {"added": "2019-10-21", "updated": "2022-01-10", "commit": "db44d479f00e897a6687654b75f3a8f6d3952141"},
