@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-23",
+  "generated": "2026-11-24",
   "scripts": {
     "32-harmony": {"added": "2026-04-17", "updated": "2026-09-05", "commit": "7f088b4797e4075adcd414c25b371740e5c65a31"},
     "3d": {"added": "2021-05-11", "updated": "2021-05-27", "commit": "b8b9dc8a10b48d15ada9a9926b04e1bdf4ef516f"},
@@ -65,6 +65,7 @@
     "concrete": {"added": "2023-10-16", "updated": "2026-10-27", "commit": "6160647a6b8c83d06e0240a20c978ad0e5cf5218"},
     "constellations": {"added": "2022-03-15", "updated": "2025-07-24", "commit": "6643aa3c84ff4b4576a44aa8fcd3da918360380a"},
     "corners": {"added": "2021-06-22", "updated": "2021-06-23", "commit": "3cdef327e83bc8dfd4413b54b3367f2e18c22885"},
+    "coverts": {"added": "2026-11-24", "updated": "2026-11-21", "commit": "d79583a73671a6070210c084b7321fe71057a527"},
     "cranes": {"added": "2019-10-21", "updated": "2024-11-12", "commit": "c2f8d475eb3eb3c7b17f02d6a7e44ad06f27a6d1"},
     "crow_talk": {"added": "2021-02-11", "updated": "2021-02-13", "commit": "5fd2fb92d5625e0ee1ac47779853e89c0d58c06e"},
     "cryptkeeper": {"added": "2020-12-27", "updated": "2021-01-13", "commit": "58c02bae7caa4eae0f70e36f1741ab35d5daf792"},
@@ -197,7 +198,7 @@
     "moonraker": {"added": "2022-01-12", "updated": "2024-10-25", "commit": "02e9278de742a1cc5b59554a718416d4dc118792"},
     "mosaic": {"added": "2024-11-04", "updated": "2026-09-19", "commit": "5384d0babb01fd5004bdcd6a95eaa8609aa72915"},
     "mouse": {"added": "2021-02-11", "updated": "2021-03-04", "commit": "581d575dcfb23293e7e4044b2be31d08b2e23e9e"},
-    "muses": {"added": "2026-11-15", "updated": "2026-11-22", "commit": "c8818768e9c6aa05c74359764ba74b0824f58fae"},
+    "muses": {"added": "2026-11-15", "updated": "2026-11-24", "commit": "a07e896b256e048db033f5649bb373ea54a09d81"},
     "mx.samples": {"added": "2021-02-07", "updated": "2024-10-05", "commit": "7ec2007aeeea20e8922e94b0b39402302faaaf7b"},
     "mx.synths": {"added": "2021-10-14", "updated": "2024-01-03", "commit": "ada23b839db5cda0cc36110b588a999c79a2cef3"},
     "n.kria": {"added": "2023-01-03", "updated": "2023-11-12", "commit": "36c95094ac223a7da7db1eed4546bd10a2b7a389"},
@@ -220,6 +221,7 @@
     "nmSmartyPants": {"added": "2021-05-06", "updated": "2021-05-01", "commit": "f2883bf43d837cd53aeca2035290cdbed9c8ff2c"},
     "noize": {"added": "2023-04-14", "updated": "2022-05-23", "commit": "2fc105860781d989510d86c360e8ace951d90c79"},
     "noizeop": {"added": "2023-04-14", "updated": "2022-08-04", "commit": "a9637068d1125396a10170b9895db3bd1ef820fd"},
+    "nompler": {"added": "2026-11-24", "updated": "2026-11-21", "commit": "33973b308364298f9f4be4805a9b3e1cfbfaef6a"},
     "norman": {"added": "2019-10-21", "updated": "2019-05-19", "commit": "d3bf236f1f3c90275eb965311cb83fc962e23821"},
     "norns.online": {"added": "2020-11-21", "updated": "2021-12-30", "commit": "6a2fc4300869c2fa872e9852ff1bcfcf788c8b2f"},
     "nornsfetch": {"added": "2024-02-29", "updated": "2024-03-19", "commit": "196becfa63bdf32b4b8f023cad58ed963606c725"},
