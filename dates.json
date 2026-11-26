@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-25",
+  "generated": "2026-11-26",
   "scripts": {
     "32-harmony": {"added": "2026-04-17", "updated": "2026-09-05", "commit": "7f088b4797e4075adcd414c25b371740e5c65a31"},
     "3d": {"added": "2021-05-11", "updated": "2021-05-27", "commit": "b8b9dc8a10b48d15ada9a9926b04e1bdf4ef516f"},
@@ -198,7 +198,7 @@
     "moonraker": {"added": "2022-01-12", "updated": "2024-10-25", "commit": "02e9278de742a1cc5b59554a718416d4dc118792"},
     "mosaic": {"added": "2024-11-04", "updated": "2026-09-19", "commit": "5384d0babb01fd5004bdcd6a95eaa8609aa72915"},
     "mouse": {"added": "2021-02-11", "updated": "2021-03-04", "commit": "581d575dcfb23293e7e4044b2be31d08b2e23e9e"},
-    "muses": {"added": "2026-11-15", "updated": "2026-11-24", "commit": "a07e896b256e048db033f5649bb373ea54a09d81"},
+    "muses": {"added": "2026-11-15", "updated": "2026-11-25", "commit": "a1f02f6e463552f767ed6212ab77fbc3d006c4df"},
     "mx.samples": {"added": "2021-02-07", "updated": "2024-10-05", "commit": "7ec2007aeeea20e8922e94b0b39402302faaaf7b"},
     "mx.synths": {"added": "2021-10-14", "updated": "2024-01-03", "commit": "ada23b839db5cda0cc36110b588a999c79a2cef3"},
     "n.kria": {"added": "2023-01-03", "updated": "2023-11-12", "commit": "36c95094ac223a7da7db1eed4546bd10a2b7a389"},
